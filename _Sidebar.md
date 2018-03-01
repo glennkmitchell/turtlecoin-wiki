@@ -28,6 +28,7 @@
 - Guides
   - Alternative Installation Methods
   - [[Bootstrapping the Blockchain]]
+  - [Using a Remote Daemon](Guides#SimpleWalletWithRemoteNode)
   - [Mining](Mining)
     - [Mining Software](Mining#mining-software)
       - [XMR-Stak](Mining#xmr-stak)
